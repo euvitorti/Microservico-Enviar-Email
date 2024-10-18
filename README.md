@@ -32,5 +32,8 @@ spring.mail.properties.mail.smtp.auth=true
 spring.mail.properties.mail.smtp.starttls.enable=true
 ```
 
+## Microserviço de cadastrar usuário
+[Repositório](https://github.com/euvitorti/Microservico-Cadastrar-Usuario)
+
 ## Contribuições
 Sinta-se à vontade para contribuir para o projeto! Qualquer feedback é bem-vindo.
